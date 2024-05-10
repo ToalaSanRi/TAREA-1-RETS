@@ -18,6 +18,6 @@
 
 **ScrollPane:** Se utiliza para permitir el desplazamiento vertical en el ListView del lado izquierdo.
 
-TextField: Un campo de texto que aparece en la parte inferior del lado derecho con un fondo azul y texto blanco.
+**TextField:** Un campo de texto que aparece en la parte inferior del lado derecho con un fondo azul y texto blanco.
 
-Rectángulo y Label dentro de un StackPane: El método createLabeledBox() crea un StackPane que contiene un rectángulo y un Label dentro de un HBox. Este método se utiliza para crear elementos individuales en el ListView del lado izquierdo.
+**Rectángulo y Label dentro de un StackPane:** El método createLabeledBox() crea un StackPane que contiene un rectángulo y un Label dentro de un HBox. Este método se utiliza para crear elementos individuales en el ListView del lado izquierdo.
