@@ -1,5 +1,5 @@
 # TAREA-1-RETS
-Interface utilizando Layouts
+
 
   **IMAGEN DE LA EJECUCIÓN DEL PROYECTO**
 <img width="960" alt="Captura_ejecutada" src="https://github.com/ToalaSanRi/TAREA-1-RETS/assets/169106800/aa37d409-3edd-4ecc-80e9-44d46b97af6a">
